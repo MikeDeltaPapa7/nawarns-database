@@ -1,24 +1,4 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    7.9437,
-                    40.2022
-                ]
-            },
-            "properties": {
-                "ID": "0110/24",
-                "Titolo": "NAVAREA III - 0110/24",
-                "NAVAREA": "III",
-                "Data Inizio": "2024-09-26",
-                "Data Fine": "2024-10-30",
-                "Descrizione": "Installation of maritime signal system."
-            }
-        },
         {
             "type": "Feature",
             "geometry": {
