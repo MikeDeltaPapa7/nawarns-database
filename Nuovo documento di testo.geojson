@@ -1,0 +1,109 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [31.2367, 42.8417]
+            },
+            "properties": {
+                "ID": "0114/24",
+                "Titolo": "MEDITERRANEAN SEA, BLACK SEA AND AZOV SEA",
+                "Descrizione": "LAST KNOWN POSITIONS OF MOBILE OIL RIGS AND DRILLING RIGS, OCTOBER 2024.",
+                "Data Pubblicazione": "2024-10-11T00:00:00",
+                "NAVAREA": "III",
+                "Data Inizio": null,
+                "Data Fine": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [30.0500, 45.0833],
+                        [30.0167, 45.2333],
+                        [30.0950, 45.6500],
+                        [30.3783, 45.7967],
+                        [30.5132, 45.9810],
+                        [30.5433, 46.0567],
+                        [30.6813, 46.1802],
+                        [30.8000, 46.3313],
+                        [30.8882, 46.4230]
+                    ]
+                ]
+            },
+            "properties": {
+                "ID": "0034/24",
+                "Titolo": "BLACK SEA",
+                "Descrizione": "UKRAINIAN COASTAL WARNING COORDINATOR HAS DECLARED THE FOLLOWING COASTAL APPROACHING INSTRUCTIONS FOR ENTRY OR DEPARTURE UKRAINIAN PORTS.",
+                "Data Pubblicazione": "2024-04-02T00:00:00",
+                "NAVAREA": "III",
+                "Data Inizio": "2023-08-10",
+                "Data Fine": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [33.2133, 46.0667],
+                        [33.2317, 46.0517],
+                        [33.1350, 45.9267],
+                        [32.9083, 45.9550],
+                        [33.1133, 46.0150],
+                        [32.0900, 46.1067],
+                        [32.8883, 45.9567],
+                        [32.7833, 45.8200],
+                        [32.0400, 45.9950]
+                    ]
+                ]
+            },
+            "properties": {
+                "ID": "0092/22",
+                "Titolo": "BLACK SEA - NORTHWESTERN PART",
+                "Descrizione": "DUE TO MINE DANGER NAVIGATION PROHIBITED UNTIL FURTHER NOTICE IN AREA BOUNDED.",
+                "Data Pubblicazione": "2022-02-25T00:00:00",
+                "NAVAREA": "III",
+                "Data Inizio": null,
+                "Data Fine": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [7.9437, 40.2022]
+            },
+            "properties": {
+                "ID": "0110/24",
+                "Titolo": "CENTRAL MEDITERRANEAN SEA",
+                "Descrizione": "INSTALLATION OF MARITIME SIGNAL SYSTEM BY N/O LEON H (IMO-1013212, MMSI-245782000).",
+                "Data Pubblicazione": "2024-09-26T00:00:00",
+                "NAVAREA": "III",
+                "Data Inizio": "2024-09-28",
+                "Data Fine": "2024-10-30"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.6408, 44.3038]
+            },
+            "properties": {
+                "ID": "0058/24",
+                "Titolo": "ADRIATIC SEA",
+                "Descrizione": "DRILLING OPERATION BY KEY MANHATTAN (IMO 8752154, MMSI 576622000).",
+                "Data Pubblicazione": "2024-05-21T00:00:00",
+                "NAVAREA": "III",
+                "Data Inizio": "2024-05-22",
+                "Data Fine": "2024-11-30"
+            }
+        }
+    ]
+}
