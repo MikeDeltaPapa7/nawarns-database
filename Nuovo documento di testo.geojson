@@ -1,22 +1,4 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [31.2367, 42.8417]
-            },
-            "properties": {
-                "ID": "0114/24",
-                "Titolo": "MEDITERRANEAN SEA, BLACK SEA AND AZOV SEA",
-                "Descrizione": "LAST KNOWN POSITIONS OF MOBILE OIL RIGS AND DRILLING RIGS, OCTOBER 2024.",
-                "Data Pubblicazione": "2024-10-11T00:00:00",
-                "NAVAREA": "III",
-                "Data Inizio": null,
-                "Data Fine": null
-            }
-        },
         {
             "type": "Feature",
             "geometry": {
